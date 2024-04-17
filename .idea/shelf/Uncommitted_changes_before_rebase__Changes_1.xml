@@ -1,0 +1,39 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]1" date="1713187045576" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/Baldosa.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/Baldosa.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Baldosa.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/Interfaz$2.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/Interfaz$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Interfaz$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/Interfaz$1.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/Interfaz$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Interfaz$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/juego/Tablero.class" />
+    <option name="AFTER_PATH" value="bin/juego/Tablero.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Tablero.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/ColorBaldosas.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/ColorBaldosas.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/ColorBaldosas.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/Interfaz$3.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/Interfaz$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Interfaz$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="bin/interfaz/Interfaz.class" />
+    <option name="AFTER_PATH" value="bin/interfaz/Interfaz.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Interfaz.class" />
+  </binary>
+</changelist>
